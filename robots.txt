@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://touchesir.githhub.io/sitemap.xml
